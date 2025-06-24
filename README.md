@@ -3,7 +3,7 @@
 ## Overview
 This project implements probability distributions, Bayesian probability, and gradient descent algorithms.
 
-## Contents
+## Python Notebook Contents
 
 ### Part I - Binomial Distribution
 - Custom implementation of factorial and binomial coefficient functions
@@ -24,7 +24,7 @@ This project implements probability distributions, Bayesian probability, and gra
 - Cost function (MSE) visualization over iterations
 
 ## Files
-- `Untitled.ipynb` - Main notebook with all implementations
+- `formative_3.ipynb` - Main notebook with all implementations
 - `Gradient_descent_calculations.pdf` - Supporting calculations
 
 ## Requirements
